@@ -1,0 +1,93 @@
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db > #alignmentBox {
+  position: relative;
+  max-width: 375px;
+  max-height: 667px;
+  width: 100%;
+  height: 100%;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Image_1 {
+  position: absolute;
+  width: 375px;
+  height: 667px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Image_1 > img, #s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Image_1 > svg {
+  height: 667px;
+  width: 375px;
+  box-shadow: none;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 > .backgroundLayer {
+  height: calc(100% + 0px);
+  width: calc(100% + 0px);
+  background-color: #434343;
+  background-image: none;
+  box-shadow: none;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 {
+  position: absolute;
+  width: 375px;
+  height: 209px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  text-shadow: none;
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  line-height: 18px;
+  font-size: 10.0pt;
+  font-family: 'Roboto-Regular',Arial;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 > .clipping, #s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 > .paddingLayer {
+  height: 209px;
+  width: 375px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 span {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db #s-Rectangle_1 span#rtr-s-Rectangle_1_0 {
+  color: #404040;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Roboto-Regular',Arial;
+  font-size: 10.0pt;
+  line-height: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.devMobile .non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-4a1b8536-8f40-47cb-ba26-534fbafec2db > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
